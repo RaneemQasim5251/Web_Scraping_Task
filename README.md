@@ -22,7 +22,7 @@ A simple, end-to-end Python project that:
     * Demonstrates visualizations:
 
       * Book Price Distribution
-      * ![تنزيل](https://github.com/user-attachments/assets/cde9f553-8b58-4821-98eb-886b8d67a592)
+        ![تنزيل](https://github.com/user-attachments/assets/cde9f553-8b58-4821-98eb-886b8d67a592)
 
       * Violin Distribution
         ![تنزيل (1)](https://github.com/user-attachments/assets/084b32e6-dab4-4928-8741-dd5c91886b17)
@@ -31,10 +31,10 @@ A simple, end-to-end Python project that:
         ![تنزيل (2)](https://github.com/user-attachments/assets/0afa96ee-67fd-4e5c-93a8-592d7f9b8a9b)
 
       * Word clouds
- ![تنزيل (4)](https://github.com/user-attachments/assets/27539d09-e2c0-4834-9157-8a747275bda2)
+        ![تنزيل (4)](https://github.com/user-attachments/assets/27539d09-e2c0-4834-9157-8a747275bda2)
 
       * TF-IDF top-term charts for descriptions
-![تنزيل (5)](https://github.com/user-attachments/assets/043e08b1-13f2-48a9-b626-36bbda43b64e)
+        ![تنزيل (5)](https://github.com/user-attachments/assets/043e08b1-13f2-48a9-b626-36bbda43b64e)
 
 * **`Raneem_Web_Books_Scraped.csv`**
 
